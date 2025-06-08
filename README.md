@@ -16,13 +16,15 @@ If cartoon i like Masha & The Bear, Spongebob, The Owl.
 
 My hobby is play some game and interaction with people
 
-My most favorite subjects is English.
+For food, i like nasi goreng
 
-My favorite food is nasi goreng,indomie,rendang.
+I enjoy playing laptop/mobile phone
 
 My favorite snack is chitato/potato chip, for drink fruit tea
 
 My favorite drinnk is Water
+
+I feel great. 
 
 Thank you for readinng my introduction and good night.
 
