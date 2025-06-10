@@ -24,7 +24,7 @@ My favorite snack is chitato/potato chip, for drink fruit tea
 
 My favorite drinnk is Water
 
-I feel great. 
+That's a;;. Thanks fwwl good to introduce myself to anyone,
 
 Thank you for readinng my introduction and good night.
 
