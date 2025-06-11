@@ -20,7 +20,7 @@ For food, i like nasi goreng
 
 I enjoy playing laptop/mobile phone
 
-My favorite snack is chitato/potato chip, for drink fruit tea
+My favorite snack is chitato/potato chip.
 
 My favorite drinnk is Water
 
