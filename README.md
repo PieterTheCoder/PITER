@@ -13,11 +13,17 @@ This is my stats.
 This is my formatting to beggining
 
 my-repo/
+
 │
+
 ├── README.md
+
 ├── src/            # Kode program utama
+
 ├── docs/           # Dokumentasi tambahan (jika ada)
+
 ├── assets/         # Gambar, file, atau media
+
 └── LICENSE         # (opsional) lisensi project
 
 
