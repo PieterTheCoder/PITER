@@ -1,4 +1,4 @@
-# ***Hello Everyone.*** ***My name is Pieter***
+### ***Hello Everyone.*** ***My name is Pieter***
 
 ![PITER](github-header-image.png)
 
@@ -18,14 +18,7 @@ my-repo/
 
 ├── README.md
 
-├── src/            # Kode program utama
-
-├── docs/           # Dokumentasi tambahan (jika ada)
-
-├── assets/         # Gambar, file, atau media
-
-└── LICENSE         # (opsional) lisensi project
-
+├── src/            # main program code
 
 
 I have 1 brother. I like One Piece, Naruto and Vinland Saga.
