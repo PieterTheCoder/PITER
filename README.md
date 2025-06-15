@@ -10,17 +10,6 @@ This is my stats.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
 
-This is my formatting to beggining
-
-my-repo/
-
-│
-
-├── README.md
-
-├── src/            # main program code
-
-
 I have 1 brother. I like One Piece, Naruto and Vinland Saga.
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl.
