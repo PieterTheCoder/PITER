@@ -1,7 +1,5 @@
 ### ***Hello Everyone.*** ***My name is Pieter***
 
-![PITER](github-header-image.png)
-
 I'm student from Indonesian.
 
 I want to learn coding/technologies.
@@ -22,10 +20,10 @@ I enjoy playing laptop/mobile phone
 
 My favorite snack is chitato/potato chip.
 
-My favorite drinnk is Water
+My favorite drink is Water
 
 That's all. Thanks feel good to introduce myself to anyone,
 
-Thank you for readinng my introduction and good night.
+Thank you for reading my introduction and good night.
 
 ![PITER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpaDkza2ZvbW9kM3JidWJqd213cXk5M3VlYW41bTFnZnRtZTVyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i2gyT0D0gBpiTAxRKj/giphy.gif)
