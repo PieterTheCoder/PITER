@@ -12,6 +12,8 @@ I have 1 brother. I like One Piece, Naruto and Vinland Saga.
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl.
 
+My favorite youtuber is Ryan Trahan
+
 My hobby is play some game and interaction with people
 
 For food, i like nasi goreng
