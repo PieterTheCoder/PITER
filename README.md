@@ -1,33 +1,33 @@
-### ***👋. Hello Everyone.*** ***My name is Pieter.***
+### ***👋. Halo semuanya.*** ***Nama saya Pieter.***
 
-I'm student from Indonesian.
+Saya mahasiswa dari Indonesia.
 
-I want to learn coding/technologies 💻🚀.
+Saya ingin belajar coding/teknologi 💻🚀.
 
-This is my stats.
+Ini statistik saya.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
 
-I have 1 brother. I like One Piece, Naruto and Vinland Saga 🔪.
+Saya punya 1 saudara laki-laki. Saya suka One Piece, Naruto, dan Vinland Saga 🔪.
 
-If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
+Kalau kartun saya suka Masha & The Bear, Spongebob, The Owl 🦉.
 
-My favorite youtuber is Ryan Trahan.
+Youtuber favorit saya adalah Ryan Trahan.
 
-My hobby is play some game and interaction with people.
+Hobi saya adalah bermain game dan berinteraksi dengan orang lain.
 
-For food, i like nasi goreng.
+Untuk makanan, saya suka nasi goreng.
 
-I enjoy playing laptop/mobile phone 📱.
+Saya suka bermain laptop/ponsel 📱.
 
-My favorite snack is chitato/potato chip.
+Camilan favorit saya adalah chitato/keripik kentang.
 
-My favorite drink is Water and Milk.
+Minuman favorit saya adalah Air dan Susu.
 
-That's all. Thanks feel good to introduce myself to anyone,
+Itu saja. Terima kasih, senang memperkenalkan diri kepada siapa pun,
 
-Thank you for reading my introduction and good night.
+Terima kasih telah membaca perkenalan saya dan selamat malam.
 
-If you like my introduction you can give it a ⭐ Thanks.
+Jika Anda menyukai perkenalan saya, Anda dapat memberikannya ⭐ Terima kasih.
 
 ![PITER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpaDkza2ZvbW9kM3JidWJqd213cXk5M3VlYW41bTFnZnRtZTVyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i2gyT0D0gBpiTAxRKj/giphy.gif)
