@@ -1,6 +1,6 @@
 ### ***👋. Hello Everyone.*** ***My name is Pieter.***
 
-I'm a student from Indonesia.
+I'm a student from Indonesia🇮🇩.
 
 I want to learn coding/technologies 💻🚀.
 
@@ -12,7 +12,7 @@ I have 1 brother. I like One Piece, Naruto and Vinland Saga 🔪.
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
-My favorite YouTuber is Ryan Trahan.
+My favorite YouTuber is Ryan Trahan🤵.
 
 My hobby is playing some games and interacting with people.
 
