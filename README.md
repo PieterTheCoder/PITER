@@ -8,7 +8,7 @@ This is my stats.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
 
-I have 1 brother. I like One Piece, Naruto and Vinland Saga 🔪.
+I have 1 brother. I like One Piece, Naruto, Pokemon(little bit)and Vinland Saga 🔪.
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
