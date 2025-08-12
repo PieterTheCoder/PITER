@@ -14,7 +14,7 @@ If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
 My favorite YouTuber is Ryan Trahan🤵.
 
-My hobby is playing some games and interacting with people🧏
+My hobby is playing some games and interacting with people🧏.
 
 For food, I like fried rice.
 
