@@ -4,7 +4,7 @@ I'm a student from Indonesia🇮🇩.
 
 I want to learn coding/technologies 💻🚀.
 
-This is my stats.
+This is my stats🤚.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
 
