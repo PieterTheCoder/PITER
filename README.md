@@ -1,4 +1,4 @@
-### ***👋. Hello Everyone.*** ***My name is Pieter.***
+### ***👋. Hello Everyone.*** ***My name is Pieter.👋***
 
 I'm a student from Indonesia🇮🇩.
 
@@ -16,11 +16,11 @@ My favorite YouTuber is Ryan Trahan🤵.
 
 My hobby is playing some games and interacting with people🧏.
 
-For food, I like fried rice.
+For food, I like fried rice👍.
 
 I enjoy playing laptop/mobile phone 📱.
 
-My favorite snack is chitato/potato chips.
+My favorite snack is chitato/potato chips👀.
 
 My favorite drink is Water and Milk.
 
