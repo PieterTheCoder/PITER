@@ -2,7 +2,7 @@
 
 I'm a student from Indonesia🇮🇩.
 
-I want to learn coding/technologies 💻🚀.
+I want to learn coding/technologies for future💻🚀.
 
 This is my stats🤚.
 
