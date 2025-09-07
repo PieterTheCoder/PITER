@@ -22,7 +22,7 @@ I enjoy playing laptop/mobile phone 📱.
 
 My favorite snack is chitato/potato chips👀.
 
-My favorite drink is Water and Milk.
+My favorite drink is Water and Milk💦.
 
 That's all. Thanks feel good to introduce myself to anyone,
 
