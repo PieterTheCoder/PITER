@@ -1,4 +1,4 @@
-### ***👋. Hello Everyone.*** ***My name is Pieter.👋***
+### ***👋 Hello Everyone.*** ***My name is Pieter 👋***
 
 I'm a student from Indonesia🇮🇩.
 
