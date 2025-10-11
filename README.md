@@ -26,7 +26,7 @@ My favorite drink is Water and Milk💦.
 
 If you like my introduction you can give it a ⭐ Thanks.
 
-That's all. Thanks feel good to introduce myself to anyone,
+That's all. Thanks feel good to introduce myself to anyone👋.
 
 Thank you for reading my introduction and good night👍.
 
