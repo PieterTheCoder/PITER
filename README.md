@@ -8,11 +8,11 @@ This is my stats🤚.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
 
-I have 1 brother. I like One Piece, Naruto, To Be Hero X and Vinland Saga 🔪.
+I have 1 brother. I like One Piece, Naruto, To Be Hero X, Monster, and Vinland Saga 🔪.
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
-My favorite YouTuber is Ryan Trahan🤵.
+My favorite YouTuber is Ryan Trahan, MrBeast🤵.
 
 My hobby is playing some games and interacting with people🧏.
 
