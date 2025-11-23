@@ -1,6 +1,6 @@
 ### ***👋 Hello Everyone.*** ***My name is Pieter 👋***
 
-I'm a student from Indonesia🇮🇩
+I am a student from Indonesia🇮🇩
 
 I want to learn coding/technologies for future💻🚀.
 
