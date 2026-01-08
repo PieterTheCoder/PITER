@@ -1,5 +1,7 @@
 ###  👋 Hello Everyone. My name is Pieter 👋. 
 
+My Daily is the consistent for coding.
+
 I am a student from Indonesia🇮🇩
 
 I want to learn coding/technologies for future💻🚀.
