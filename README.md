@@ -2,8 +2,6 @@
 
 My Daily is the consistent for coding.
 
-I am a student from Indonesia🇮🇩
-
 I want to learn coding/technologies for future💻🚀.
 
 This is my stats🤚, its literally C hehe.
