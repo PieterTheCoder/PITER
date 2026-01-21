@@ -6,7 +6,7 @@ I want to learn coding/technologies for future💻🚀.
 
 This is my stats🤚, its literally C hehe.
 
-![PITER](https://github-readme-stats.vercel.app/api?username=Piter&show_icons=true&theme=dark#gh-dark-mode-only)
+![PITER](https://github-readme-stats.vercel.app/api?username=PieterTheCoder &show_icons=true&theme=dark#gh-dark-mode-only)
 
 I have 1 brother. I like One Piece, Naruto, To Be Hero X, Monster, Hunter x Hunter, and Vinland Saga 🔪
 
