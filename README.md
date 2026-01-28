@@ -8,7 +8,7 @@ This is my stats🤚, its literally C hehe.
 
 ![PITER](https://github-readme-stats.vercel.app/api?username=PieterTheCoder &show_icons=true&theme=dark#gh-dark-mode-only)
 
-I have 1 brother. I like One Piece, Naruto, To Be Hero X, Monster, Hunter x Hunter, and Vinland Saga 🔪
+I have 1 brother. I like One Piece, Naruto, To Be Hero X, Monster, Peak Hunter x Hunter, and Vinland Saga 🔪
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
