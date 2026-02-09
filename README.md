@@ -11,7 +11,7 @@ I have 1 brother. I like One Piece,Kaguya Sama: Love Is War, Naruto, To Be Hero 
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
-My favorite YouTuber is Ryan Trahan, Airrack, MrBeast🤵.
+My favorite YouTuber is Ryan Trahan, CoryXKenshin, Airrack, MrBeast🤵.
 
 My hobby is playing some games and interacting with people🧏.
 
