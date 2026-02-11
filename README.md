@@ -7,7 +7,7 @@ I want to learn coding/technologies for future💻🚀.
 This is my stats🤚.
 ![PITER](https://github-readme-stats.vercel.app/api?username=PieterTheCoder &show_icons=true&theme=dark#gh-dark-mode-only)
 
-I have 1 brother. I like One Piece,Kaguya Sama: Love Is War, Naruto, To Be Hero X, Monster, Peak Hunter x Hunter, and Vinland Saga 🔪
+I have 1 brother. I like One Piece, Kaguya Sama: Love Is War, Naruto, To Be Hero X, Monster, Peak Hunter x Hunter, and Vinland Saga 🔪
 
 If cartoon i like Masha & The Bear, Spongebob, The Owl 🦉.
 
