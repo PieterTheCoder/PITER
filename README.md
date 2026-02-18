@@ -1,6 +1,6 @@
 ###  👋 Hello Everyone. My name is Pieter 👋. 
 
-My Daily is the consistent for coding👍.
+Busy.
 
 I want to learn coding/technologies for future💻🚀.
 
