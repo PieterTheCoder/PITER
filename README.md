@@ -1,6 +1,6 @@
 ###  👋 Hello Everyone. My name is Pieter 👋. 
 
-Busy with some test.
+Target to read some Book: Ikigai.
 
 I want to learn coding/technologies for future💻🚀.
 
