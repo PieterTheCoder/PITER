@@ -1,6 +1,6 @@
 ###  👋 Hello Everyone. My name is Pieter 👋. 
 
-Target to read some Book: Ikigai: 30 Page
+Target to read some Book: Ikigai: 50 Page
 
 I want to learn coding/technologies for future💻🚀.
 
